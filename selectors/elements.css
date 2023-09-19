@@ -1,0 +1,19 @@
+p,a{
+    color: green;
+}
+/* a{
+    color: green;
+} */
+
+li{
+    list-style-type:square ;
+}
+
+.one,.two{
+    color: orange;
+    font-weight: bold;
+}
+a:hover{
+    color: chocolate;
+    text-decoration: none;
+}
